@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Diego Costa
+- 👀 I’m interested in technology
+- 🌱 I’m currently learning PYTHON and SQL
+- 💞️ I’m looking to collaborate on new technology projects
